@@ -1,0 +1,12 @@
+mass, xnodes, ynodes
+1.73d3, 24,24
+r_min x r_max x
+0.0d0, 3.5d0
+r_min y r_max y
+0.0d0, 3.5d0
+r0x-x r0y-y
+1.75d0, 1.75d0
+Fx-x, Fy-y, Fx-y
+1.423d0, 0.723d0, 0.902d0
+eigen
+9
